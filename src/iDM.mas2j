@@ -1,0 +1,30 @@
+/* Jason Project */
+
+MAS iDM
+{
+    infrastructure: Centralised
+
+    environment: iDM(
+		// environment setup 
+		"./data/island.gif", 	// map
+		7, 						// number of rabbits populating map
+		100,					// rate for rabbits re-generation (>0)
+		// window setup
+		640, 640,				// window size
+		// GUI
+		yes,					// extra animations (sea, etc.)
+		yes,					// display grid
+		yes,					// display agents' infos
+		// Simulation control
+		50						// sleep time (ms)
+	)
+
+	agents:
+        rabbit #7;
+		mandog;
+		hyenapig;
+		leopardman;
+
+}
+
+
