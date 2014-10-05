@@ -19,6 +19,7 @@ Open `iDM\src\iDM.mas2j` in jEdit and hit the run command.
 
 ### Simulation parameters
 In jEdit, the iDM.mas2j project file contains editable parameters that can be modified:  
+- Map (a GIF file that can be edited)
 - Number of preys (rabbits)
 - Preys re-generation 
 - Simulation step (ms)
