@@ -18,7 +18,7 @@ Jason installer includes jEdit, an IDE supporitng both Java and AgentSpeak idiom
 Open `iDM\src\iDM.mas2j` in jEdit and hit the run command.
 
 ### Simulation parameters
-In the jEdit iDM.mas2j projects contain parameters that can be modified.  
+In jEdit, the iDM.mas2j project file contains editable parameters that can be modified:  
 - Number of preys (rabbits)
 - Preys re-generation 
 - Simulation step (ms)
