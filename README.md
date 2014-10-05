@@ -23,5 +23,5 @@ In jEdit, the iDM.mas2j project file contains editable parameters that can be mo
 - Number of preys (rabbits)
 - Preys re-generation 
 - Simulation step (ms)
-- agents
+- Agents to simulate
 - visuals: window size, animation, grid and agents infos
