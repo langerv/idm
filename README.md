@@ -25,3 +25,6 @@ In jEdit, the iDM.mas2j project file contains editable parameters that can be mo
 - Simulation step (ms)
 - Agents to simulate
 - visuals: window size, animation, grid and agents infos
+
+### References
+- Bordini, Rafael H. Hübner, Jomi Fred. Wooldridge, Michael. (2007). Programming Multi-agent Systems in AgentSpeak Using Jason. Wiley.
