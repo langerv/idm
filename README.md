@@ -3,6 +3,15 @@ idm
 
 Jason / AgentSpeak multi-agent system experiment inspired by H.G. wells' Island of doctor Moreau.
 
+### Controls
+- Use arrow keys to control the user-driven agent (Doctor Moreau)
+
+### Agents behaviours (by order of complexity):
+- Preys (rabbits):
+- Man-dog:
+- Hyena-pig:
+- Leopard-man:
+
 ### Instructions
 Install http://jason.sourceforge.net. Tested with Jason 1.3.3.  
 Jason installer includes jEdit, an IDE supporitng both Java and AgentSpeak idioms.   
