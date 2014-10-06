@@ -1,7 +1,7 @@
 idm
 ===
 
-Jason / AgentSpeak multi-agent system experiment inspired by H.G. wells' Island of doctor Moreau.
+Jason / AgentSpeak multi-agent system experiment inspired by H.G. Wells' Island of doctor Moreau.
 
 ### Controls
 - Use arrow keys to control the user-driven agent (Doctor Moreau)
