@@ -10,7 +10,7 @@ import java.util.Collections;
  */
 public class aStarPathfinder
 {
-    private Logger logger = Logger.getLogger("iDM.mas2j."+aStarPathfinder.class.getName());
+    private Logger logger = Logger.getLogger("iDM.mas2j."+Pathfinder.class.getName());
 
 	private int 		width, height ;
 	
