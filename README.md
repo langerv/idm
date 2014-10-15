@@ -10,8 +10,8 @@ actual screenshot
 - Use arrow keys to control the user-driven agent (Doctor Moreau)
 
 ### Agents behaviours (by order of complexity):
-- Rabbits: these are preys,just moving randomly in the map. 
-- Man-dog: simple behaviour, roaming and going to the village to find food.
+- Rabbits: these are preys, just moving randomly in the map. 
+- Man-dog: simple behaviour, roaming and going to the village to find his food.
 - Hyena-pig: same as Man-dog.
 - Leopard-man: more complex behaviours roaming, chasing preys, and spying Moreau. 
 
