@@ -14,6 +14,7 @@ actual screenshot
 - Man-dog: simple behaviour, roaming and going to the village to find his food.
 - Hyena-pig: same as Man-dog.
 - Leopard-man: more complex behaviours roaming, chasing preys, and spying Moreau. 
+- Doctor Moreau: interactive agent, use up/down/left/right arrows for moving.
 
 ### Instructions
 Install http://jason.sourceforge.net. Tested with Jason 1.3.3.  
@@ -30,4 +31,5 @@ In jEdit, the iDM.mas2j project file contains editable parameters that can be mo
 - visuals: window size, animation, grid and agents infos
 
 ### Reference
+- H. G. Wells. (1896). The island of Dr Moreau.
 - Bordini, Rafael H. Hübner, Jomi Fred. Wooldridge, Michael. (2007). Programming Multi-agent Systems in AgentSpeak Using Jason, Wiley.
