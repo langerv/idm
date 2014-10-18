@@ -31,7 +31,7 @@ In jEdit, the iDM.mas2j project file contains editable parameters that can be mo
 - visuals: window size, animation, grid and agents infos
 
 ### Todo
-- Add a global blood variable increasing in time and evolve local behaviours (i.e AgentSpeak rules) to a global predator model. Rabbits should extinct since they are limited, and humanimals should fight each other
+- Add a global blood variable increasing in time and evolve local behaviours (i.e AgentSpeak rules) to a global predator model. Rabbits should extinct since they are limited, and humanimals should fight each other.
 - Add rules to protect Moreau that should be less and less substainable due to preys extinction and humanimals fights, and finally leading to attack Moreau to death.
 
 ### Reference
