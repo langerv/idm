@@ -32,7 +32,7 @@ In jEdit, the iDM.mas2j project file contains editable parameters that can be mo
 
 ### Todo
 - Add a global blood variable increasing in time and evolve local behaviours (i.e AgentSpeak rules) to a global predator model. Rabbits should extinct since they are limited, and humanimals should fight each other.
-- Add rules to protect Moreau that should be less and less substainable due to preys extinction and humanimals fights, and finally leading to attack Moreau to death.
+- Add rules to protect Moreau that should be less and less substainable due to blood level and preys extinction, and finally leading to attack Moreau to death.
 
 ### Reference
 - H. G. Wells. (1896). The island of Dr Moreau.
