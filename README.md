@@ -30,6 +30,9 @@ In jEdit, the iDM.mas2j project file contains editable parameters that can be mo
 - Agents to simulate
 - visuals: window size, animation, grid and agents infos
 
+### Todo
+- Add a global blood variable increasing in time and evolve local behaviours (i.e AgentSpeak rules) to a predator model.
+
 ### Reference
 - H. G. Wells. (1896). The island of Dr Moreau.
 - Bordini, Rafael H. Hübner, Jomi Fred. Wooldridge, Michael. (2007). Programming Multi-agent Systems in AgentSpeak Using Jason, Wiley.
