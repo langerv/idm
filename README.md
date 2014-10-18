@@ -4,7 +4,7 @@ idm
 Jason / AgentSpeak multi-agent system experiment inspired by H.G. Wells' Island of doctor Moreau.
 
 ![](screenshot.png)
-actual screenshot
+actual screenshot: the island.
 
 ### Controls
 - Use arrow keys to control the user-driven agent (Doctor Moreau)
